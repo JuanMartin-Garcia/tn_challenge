@@ -3,6 +3,7 @@
 /data/processed/
 
 # Ignore virtual environment files
+venv/
 /env/
 /.venv/
 

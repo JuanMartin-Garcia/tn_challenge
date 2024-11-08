@@ -1,0 +1,13 @@
+# requirements.txt
+
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+jupyter
+ipykernel
+xgboost
+lightgbm
+shap
+
