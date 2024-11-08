@@ -4,6 +4,7 @@
 \usepackage{listings}
 \usepackage{graphicx}
 \usepackage{tocloft}
+\usepackage{verbatim}
 
 \hypersetup{
     colorlinks=true,
@@ -38,27 +39,27 @@ The repository is organized as follows:
 
 \begin{verbatim}
 b2b-sales-predictive-model/
-├── data/
-│   ├── raw/                # Original data files (not tracked by Git)
-│   ├── processed/          # Preprocessed data files
-├── notebooks/
-│   ├── 01_data_exploration.ipynb
-│   ├── 02_data_preprocessing.ipynb
-│   ├── 03_modeling.ipynb
-│   ├── 04_evaluation.ipynb
-│   └── 05_insights.ipynb
-├── scripts/
-│   ├── data_preprocessing.py
-│   ├── modeling.py
-│   └── evaluation.py
-├── reports/
-│   └── presentation.pdf    # Final presentation
-├── venv/                   # Virtual environment directory (not tracked by Git)
-├── requirements.txt        # Python dependencies
-├── setup.sh                # Bash script for automated setup
-├── README.tex              # This README file in LaTeX format
-├── .gitignore
-└── LICENSE                 # Optional
+|-- data/
+|   |-- raw/                # Original data files (not tracked by Git)
+|   |-- processed/          # Preprocessed data files
+|-- notebooks/
+|   |-- 01_data_exploration.ipynb
+|   |-- 02_data_preprocessing.ipynb
+|   |-- 03_modeling.ipynb
+|   |-- 04_evaluation.ipynb
+|   |-- 05_insights.ipynb
+|-- scripts/
+|   |-- data_preprocessing.py
+|   |-- modeling.py
+|   |-- evaluation.py
+|-- reports/
+|   |-- presentation.pdf    # Final presentation
+|-- venv/                   # Virtual environment directory (not tracked by Git)
+|-- requirements.txt        # Python dependencies
+|-- setup.sh                # Bash script for automated setup
+|-- README.tex              # This README file in LaTeX format
+|-- .gitignore
+|-- LICENSE                 # Optional
 \end{verbatim}
 
 \section{Prerequisites}
@@ -323,4 +324,3 @@ You now have a complete guide and a bash script to set up the project environmen
 Feel free to reach out if you have any questions or need further assistance.
 
 \end{document}
-

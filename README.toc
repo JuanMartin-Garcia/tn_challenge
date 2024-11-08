@@ -1,0 +1,22 @@
+\contentsline {section}{\numberline {1}Project Overview}{1}{section.1}%
+\contentsline {section}{\numberline {2}Folder Structure}{1}{section.2}%
+\contentsline {section}{\numberline {3}Prerequisites}{2}{section.3}%
+\contentsline {section}{\numberline {4}Setup Instructions}{2}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Clone the Repository}{2}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Create and Activate the Virtual Environment}{2}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Install Dependencies}{2}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}Set Up Jupyter Kernel}{3}{subsection.4.4}%
+\contentsline {subsection}{\numberline {4.5}Launch Jupyter Notebook}{3}{subsection.4.5}%
+\contentsline {section}{\numberline {5}Usage}{3}{section.5}%
+\contentsline {section}{\numberline {6}Bash Script for Automated Setup}{3}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Running the Script}{3}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}\texttt {setup.sh} Contents}{4}{subsection.6.2}%
+\contentsline {section}{\numberline {7}License}{6}{section.7}%
+\contentsline {section}{\numberline {8}Troubleshooting}{6}{section.8}%
+\contentsline {subsection}{\numberline {8.1}Permission Denied Error When Running \texttt {setup.sh}}{6}{subsection.8.1}%
+\contentsline {subsection}{\numberline {8.2}Jupyter Kernel Not Showing Up}{6}{subsection.8.2}%
+\contentsline {subsection}{\numberline {8.3}Python Version Issues}{6}{subsection.8.3}%
+\contentsline {subsection}{\numberline {8.4}Deactivating the Virtual Environment}{6}{subsection.8.4}%
+\contentsline {subsection}{\numberline {8.5}Reactivating the Virtual Environment}{6}{subsection.8.5}%
+\contentsline {subsection}{\numberline {8.6}Installing Additional Packages}{7}{subsection.8.6}%
+\contentsline {section}{\numberline {9}Conclusion}{7}{section.9}%
